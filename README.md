@@ -6,3 +6,8 @@ This repository contains the Assigments and Exercises for the Intro to Deep Lear
 Time: 2024 Spring Semester
 
 Lecturer: Prof. Boyang
+
+
+## Final Project
+
+The Final Project requires students to implement a CNN model for MNIST dataset. The model should be able to achieve a test accuracy of at least 97%. The project should be implemented in pure Python and should not use any deep learning frameworks, and the Parameters should be not exceeding 22k.
